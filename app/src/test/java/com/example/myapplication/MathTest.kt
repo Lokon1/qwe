@@ -4,4 +4,7 @@ class MathTest {
     fun poiuy(){
 
     }
+    fun qwert(){
+
+    }
 }
